@@ -1,0 +1,5 @@
+{
+    "name":"{{$randomUserName}}",
+    "description":"SoftwareTesting institute",
+    "private":true
+}
